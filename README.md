@@ -1,8 +1,6 @@
 <h1 align="center">Namaskar 👋, I'm Prayag Adhikari</h1>
 <h3 align="center">A recent high school graduate and a passionate web developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhikariprayag&label=Profile%20views&color=0e75b6&style=flat" alt="adhikariprayag" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhikariprayag" alt="adhikariprayag" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
